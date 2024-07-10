@@ -1,6 +1,6 @@
-# This progect is about the rotating Secrets with AWS Secrets Manager
+# Project Overview: Rotating Secrets with AWS Secrets Manager
 
-Securely managing secrets and credentials is crucial for maintaining the integrity of your applications in the cloud. AWS Secrets Manager simplifies this process by providing a centralized, secure repository for storing, managing, and rotating secrets such as database credentials, API keys, and application credentials. This project demonstartes practical use of AWS Secrets Manager, highlights its key features, and provides a practical example using Terraform to set up secret rotation with a Lambda function.
+Securely managing secrets and credentials is crucial for maintaining the integrity of your applications in the cloud. AWS Secrets Manager simplifies this process by providing a centralized, secure repository for storing, managing, and rotating secrets such as database credentials, API keys, and application credentials. This project demonstrates the practical use of AWS Secrets Manager, highlights its key features, and provides a practical example using Terraform to set up secret rotation with a Lambda function.
 
 
 ### Useful links:
